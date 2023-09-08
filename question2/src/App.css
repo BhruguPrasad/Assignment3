@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.remove_btn{
+  background-color: rgb(239, 67, 58);
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+}
+.add_btn{
+  background-color: rgb(58, 239, 82);
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+}
